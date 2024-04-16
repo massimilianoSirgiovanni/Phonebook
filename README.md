@@ -3,8 +3,8 @@
 
 
 <ul>
-<il>informations -> contains information about your phone book contacts;</il>
-<il>icons -> contains all the icon used for the buttons in the interface</il>
+<li>informations -> contains information about your phone book contacts;</li>
+<li>icons -> contains all the icon used for the buttons in the interface</li>
 </ul>
 
 All the code used to create this project is placed in the "src" folder.
